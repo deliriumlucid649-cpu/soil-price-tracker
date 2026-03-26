@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+lxml
+sqlite3
+schedule
+python-dotenv
+pandas
